@@ -1,0 +1,163 @@
+﻿Year,Race/Ethnicity,Birth Type,Total Births,Events,Percent,Upper 95% CI,Lower 95% CI
+2010,African-American,Preterm Births,27634,3441,12.5,12.8,12.1
+2010,African-American,Very Preterm Births,27634,731,2.6,2.8,2.5
+2011,African-American,Preterm Births,26991,3241,12,12.4,11.6
+2011,African-American,Very Preterm Births,26991,729,2.7,2.9,2.5
+2012,African-American,Preterm Births,26446,3226,12.2,12.6,11.8
+2012,African-American,Very Preterm Births,26446,748,2.8,3,2.6
+2013,African-American,Preterm Births,25790,3075,11.9,12.3,11.5
+2013,African-American,Very Preterm Births,25790,692,2.7,2.9,2.5
+2010,American Indian,Preterm Births,1900,191,10.1,11.5,8.8
+2010,American Indian,Very Preterm Births,1900,21,1.1,1.7,0.7
+2011,American Indian,Preterm Births,1793,160,8.9,10.3,7.7
+2011,American Indian,Very Preterm Births,1793,20,1.1,1.7,0.7
+2012,American Indian,Preterm Births,1756,154,8.8,10.2,7.5
+2012,American Indian,Very Preterm Births,1756,24,1.4,2,0.9
+2013,American Indian,Preterm Births,1784,179,10,11.5,8.7
+2013,American Indian,Very Preterm Births,1784,28,1.6,2.3,1.1
+2010,Asian,Preterm Births,60569,5099,8.4,8.6,8.2
+2010,Asian,Very Preterm Births,60569,639,1.1,1.1,1
+2011,Asian,Preterm Births,61828,5266,8.5,8.7,8.3
+2011,Asian,Very Preterm Births,61828,715,1.2,1.2,1.1
+2012,Asian,Preterm Births,68470,5770,8.4,8.6,8.2
+2012,Asian,Very Preterm Births,68470,797,1.2,1.2,1.1
+2013,Asian,Preterm Births,68064,5491,8.1,8.3,7.9
+2013,Asian,Very Preterm Births,68064,773,1.1,1.2,1.1
+2010,Hispanic,Preterm Births,256638,20846,8.1,8.2,8
+2010,Hispanic,Very Preterm Births,256638,3187,1.2,1.3,1.2
+2011,Hispanic,Preterm Births,249140,20462,8.2,8.3,8.1
+2011,Hispanic,Very Preterm Births,249140,3078,1.2,1.3,1.2
+2012,Hispanic,Preterm Births,244098,20129,8.2,8.4,8.1
+2012,Hispanic,Very Preterm Births,244098,3055,1.3,1.3,1.2
+2013,Hispanic,Preterm Births,237794,19855,8.3,8.5,8.2
+2013,Hispanic,Very Preterm Births,237794,3074,1.3,1.3,1.2
+2010,Multi-Race,Preterm Births,10266,937,9.1,9.7,8.6
+2010,Multi-Race,Very Preterm Births,10266,138,1.3,1.6,1.1
+2011,Multi-Race,Preterm Births,10574,920,8.7,9.3,8.2
+2011,Multi-Race,Very Preterm Births,10574,173,1.6,1.9,1.4
+2012,Multi-Race,Preterm Births,10914,1011,9.3,9.8,8.7
+2012,Multi-Race,Very Preterm Births,10914,170,1.6,1.8,1.3
+2013,Multi-Race,Preterm Births,11154,994,8.9,9.5,8.4
+2013,Multi-Race,Very Preterm Births,11154,173,1.6,1.8,1.3
+2010,Pacific Islander,Preterm Births,2231,231,10.4,11.7,9.2
+2010,Pacific Islander,Very Preterm Births,2231,45,2,2.7,1.5
+2011,Pacific Islander,Preterm Births,2148,190,8.8,10.1,7.7
+2011,Pacific Islander,Very Preterm Births,2148,36,1.7,2.3,1.2
+2012,Pacific Islander,Preterm Births,2031,181,8.9,10.2,7.7
+2012,Pacific Islander,Very Preterm Births,2031,29,1.4,2,1
+2013,Pacific Islander,Preterm Births,1990,179,9,10.3,7.8
+2013,Pacific Islander,Very Preterm Births,1990,22,1.1,1.7,0.7
+2010,Unknown,Preterm Births,8804,1114,12.7,13.4,12
+2010,Unknown,Very Preterm Births,8804,207,2.4,2.7,2.1
+2011,Unknown,Preterm Births,9128,1135,12.4,13.1,11.8
+2011,Unknown,Very Preterm Births,9128,243,2.7,3,2.4
+2012,Unknown,Preterm Births,11661,1360,11.7,12.3,11.1
+2012,Unknown,Very Preterm Births,11661,290,2.5,2.8,2.2
+2013,Unknown,Preterm Births,9286,1081,11.6,12.3,11
+2013,Unknown,Very Preterm Births,9286,229,2.5,2.8,2.2
+2010,White,Preterm Births,140706,11668,8.3,8.4,8.1
+2010,White,Very Preterm Births,140706,1619,1.2,1.2,1.1
+2011,White,Preterm Births,139307,11242,8.1,8.2,7.9
+2011,White,Very Preterm Births,139307,1563,1.1,1.2,1.1
+2012,White,Preterm Births,137346,10596,7.7,7.9,7.6
+2012,White,Very Preterm Births,137346,1425,1,1.1,1
+2013,White,Preterm Births,137725,10686,7.8,7.9,7.6
+2013,White,Very Preterm Births,137725,1491,1.1,1.1,1
+2010,TOTAL,Preterm Births,508748,43527,8.6,8.6,8.5
+2010,TOTAL,Very Preterm Births,508748,6587,1.3,1.3,1.3
+2011,TOTAL,Preterm Births,500909,42616,8.5,8.6,8.4
+2011,TOTAL,Very Preterm Births,500909,6557,1.3,1.3,1.3
+2012,TOTAL,Preterm Births,502722,42427,8.4,8.5,8.4
+2012,TOTAL,Very Preterm Births,502722,6538,1.3,1.3,1.3
+2013,TOTAL,Preterm Births,493587,41540,8.4,8.5,8.3
+2013,TOTAL,Very Preterm Births,493587,6482,1.3,1.3,1.3
+2014,African-American,Preterm Births,25160,3100,12.3,11.9,12.7
+2014,African-American,Very Preterm Births,25160,773,3.1,2.9,3.3
+2015,African-American,Preterm Births,23957,2872,12,11.6,12.4
+2015,African-American,Very Preterm Births,23957,600,2.5,2.3,2.7
+2016,African-American,Preterm Births,23720,2765,11.7,11.3,12.1
+2016,African-American,Very Preterm Births,23720,582,2.5,2.3,2.7
+2014,American Indian,Preterm Births,1757,161,9.2,7.9,10.6
+2014,American Indian,Very Preterm Births,1757,23,1.3,0.9,2
+2015,American Indian,Preterm Births,1655,168,10.2,8.8,11.7
+2015,American Indian,Very Preterm Births,1655,14,0.8,0.5,1.4
+2016,American Indian,Preterm Births,1529,160,10.5,9,12.1
+2016,American Indian,Very Preterm Births,1529,25,1.6,1.1,2.4
+2014,Asian,Preterm Births,74771,5695,7.6,7.4,7.8
+2014,Asian,Very Preterm Births,74771,749,1,0.9,1.1
+2015,Asian,Preterm Births,70679,5591,7.9,7.7,8.1
+2015,Asian,Very Preterm Births,70679,748,1.1,1,1.1
+2016,Asian,Preterm Births,73488,5989,8.1,8,8.3
+2016,Asian,Very Preterm Births,73488,802,1.1,1,1.2
+2014,Hispanic,Preterm Births,236865,19646,8.3,8.2,8.4
+2014,Hispanic,Very Preterm Births,236865,3069,1.3,1.3,1.3
+2015,Hispanic,Preterm Births,233606,20006,8.6,8.5,8.7
+2015,Hispanic,Very Preterm Births,233606,3088,1.3,1.3,1.4
+2016,Hispanic,Preterm Births,228459,20036,8.8,8.7,8.9
+2016,Hispanic,Very Preterm Births,228459,2910,1.3,1.2,1.3
+2014,Multi-Race,Preterm Births,11562,1056,9.1,8.6,9.7
+2014,Multi-Race,Very Preterm Births,11562,168,1.5,1.3,1.7
+2015,Multi-Race,Preterm Births,11563,1048,9.1,8.6,9.6
+2015,Multi-Race,Very Preterm Births,11563,177,1.5,1.3,1.8
+2016,Multi-Race,Preterm Births,11992,1131,9.4,8.9,10
+2016,Multi-Race,Very Preterm Births,11992,207,1.7,1.5,2
+2014,Pacific Islander,Preterm Births,2010,187,9.3,8.1,10.7
+2014,Pacific Islander,Very Preterm Births,2010,32,1.6,1.1,2.2
+2015,Pacific Islander,Preterm Births,1989,220,11.1,9.8,12.5
+2015,Pacific Islander,Very Preterm Births,1989,34,1.7,1.2,2.4
+2016,Pacific Islander,Preterm Births,1837,179,9.7,8.5,11.2
+2016,Pacific Islander,Very Preterm Births,1837,25,1.4,0.9,2
+2014,TOTAL,Preterm Births,501974,41541,8.3,8.2,8.4
+2014,TOTAL,Very Preterm Births,501974,6578,1.3,1.3,1.3
+2015,TOTAL,Preterm Births,490998,41553,8.5,8.4,8.5
+2015,TOTAL,Very Preterm Births,490998,6378,1.3,1.3,1.3
+2016,TOTAL,Preterm Births,488326,42043,8.6,8.5,8.7
+2016,TOTAL,Very Preterm Births,488326,6190,1.3,1.2,1.3
+2014,Unknown,Preterm Births,11476,1381,12,11.5,12.6
+2014,Unknown,Very Preterm Births,11476,328,2.9,2.6,3.2
+2015,Unknown,Preterm Births,11785,1316,11.2,10.6,11.7
+2015,Unknown,Very Preterm Births,11785,271,2.3,2,2.6
+2016,Unknown,Preterm Births,15076,1642,10.9,10.4,11.4
+2016,Unknown,Very Preterm Births,15076,311,2.1,1.8,2.3
+2014,White,Preterm Births,138373,10315,7.5,7.3,7.6
+2014,White,Very Preterm Births,138373,1436,1,1,1.1
+2015,White,Preterm Births,135764,10332,7.6,7.5,7.8
+2015,White,Very Preterm Births,135764,1446,1.1,1,1.1
+2016,White,Preterm Births,132225,10141,7.7,7.5,7.8
+2016,White,Very Preterm Births,132225,1328,1,1,1.1
+2017,Hispanic,Preterm Births,219670,19674,9,9.1,8.8
+2017,Hispanic,Very Preterm Births,219670,2844,1.3,1.3,1.2
+2017,Multi-Race,Preterm Births,11672,1063,9.1,9.6,8.6
+2017,Multi-Race,Very Preterm Births,11672,179,1.5,1.8,1.3
+2017,African-American,Preterm Births,23225,2929,12.6,13,12.2
+2017,African-American,Very Preterm Births,23225,639,2.8,3,2.5
+2017,American Indian,Preterm Births,1487,169,11.4,13.1,9.9
+2017,American Indian,Very Preterm Births,1487,26,1.7,2.5,1.2
+2017,Asian,Preterm Births,71679,5651,7.9,8.1,7.7
+2017,Asian,Very Preterm Births,71679,760,1.1,1.1,1
+2017,Pacific Islander,Preterm Births,1794,162,9,10.4,7.8
+2017,Pacific Islander,Very Preterm Births,1794,22,1.2,1.8,0.8
+2017,White/Other,Preterm Births,127171,9567,7.5,7.7,7.4
+2017,White/Other,Very Preterm Births,127171,1220,1,1,0.9
+2017,Unknown,Preterm Births,14655,1696,11.6,12.1,11.1
+2017,Unknown,Very Preterm Births,14655,313,2.1,2.4,1.9
+2017,TOTAL,Preterm Births,471353,40911,8.7,8.8,8.6
+2017,TOTAL,Very Preterm Births,471353,6003,1.3,1.3,1.2
+2018,Hispanic,Preterm Births,210553,19048,9,9.2,8.9
+2018,Hispanic,Very Preterm Births,210553,2839,1.3,1.4,1.3
+2018,Multi-Race,Preterm Births,11107,1043,9.4,9.9,8.9
+2018,Multi-Race,Very Preterm Births,11107,147,1.3,1.6,1.1
+2018,African-American,Preterm Births,22208,2718,12.2,12.7,11.8
+2018,African-American,Very Preterm Births,22208,567,2.6,2.8,2.4
+2018,American Indian,Preterm Births,1488,170,11.4,13.1,9.9
+2018,American Indian,Very Preterm Births,1488,19,1.3,2,0.8
+2018,Asian,Preterm Births,68261,5465,8,8.2,7.8
+2018,Asian,Very Preterm Births,68261,738,1.1,1.2,1
+2018,Pacific Islander,Preterm Births,1719,183,10.6,12.2,9.3
+2018,Pacific Islander,Very Preterm Births,1719,36,2.1,2.9,1.5
+2018,White/Other,Preterm Births,122346,9354,7.6,7.8,7.5
+2018,White/Other,Very Preterm Births,122346,1169,1,1,0.9
+2018,Unknown,Preterm Births,16244,1797,11.1,11.6,10.6
+2018,Unknown,Very Preterm Births,16244,346,2.1,2.4,1.9
+2018,TOTAL,Preterm Births,453926,39778,8.8,8.8,8.7
+2018,TOTAL,Very Preterm Births,453926,5861,1.3,1.3,1.3
